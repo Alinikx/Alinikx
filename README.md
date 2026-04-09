@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amedeo</h1>
 <h3 align="center">I’m an Electronic Engineer from Cosenza and now living in Pisa. </h3> 
 <h3 align="center">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5qBbZL5Q4o6O_UiO0z1VEaZ6keFhBR0cNQ&s" alt="Dexter" width="100" height="100"/> </a> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5qBbZL5Q4o6O_UiO0z1VEaZ6keFhBR0cNQ&s" alt="Dexter" width="100" height="100"/>
 </h3>
 <h4 align="center">I am a fan of technology, science, PCB electronic circuits with Altium Designer, Arduino and Raspberry PI.</h4>
 
