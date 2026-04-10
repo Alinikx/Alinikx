@@ -22,18 +22,23 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1988<br>- Technology<br>- Science<br>- Electronics<br>- Arduino <br>- Raspberry PI</p>
+<p align="left">✨ Creating bugs since 1988
+  <br>
+  <br><img src="https://img.favpng.com/15/6/19/science-and-technology-light-bulb-and-gear-symbol-of-innovation-F64v0Uab.jpg" alt="python" width="40" height="40"/> Technology
+  <br>
+  <br><img src="https://img.favpng.com/2/16/12/science-colorful-atom-science-illustration-zB4a0dCV.jpg" alt="python" width="40" height="40"/> Science
+  <br>
+  <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Programming
+  <br>
+  <br><img src="https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png" alt="Altium" width="40" height="40"/> Electronics
+  <br>
+  <br><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> Arduino
+  <br>
+  <br><img src="https://www.clipartmax.com/png/full/36-362550_raspberry-pi-logo-raspberry-pi-logo.png" alt="raspberry pi" width="30" height="40"/> Raspberry PI
+  <br>
+</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alinikx/Alinikx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alinikx/Alinikx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alinikx/Alinikx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alinikx/Alinikx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
